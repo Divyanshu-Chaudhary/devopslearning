@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    std::cout << "Hello, C++" << std::endl;
+    std::cout << "Hello, C++" << endl;
 
     int a = 5;
     int b = 10;
